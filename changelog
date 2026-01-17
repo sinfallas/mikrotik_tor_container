@@ -1,4 +1,16 @@
-commit d18656cd67f054b63df824313c41dd18f3c4d86a (HEAD -> main, origin/main)
+commit b757096f482f168e26fbfc4c3853e9af0ffda2ef (HEAD -> main, origin/main)
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sat Jan 17 10:49:19 2026 -0400
+
+    * build script
+
+commit b6315020d41af0aa3a9d956ee4d2deb563039aa1
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Sat Nov 29 13:44:50 2025 -0400
+
+    * changelog
+
+commit d18656cd67f054b63df824313c41dd18f3c4d86a
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Sat Nov 29 13:44:44 2025 -0400
 
@@ -16,7 +28,7 @@ Date:   Sat Nov 29 13:44:03 2025 -0400
 
     * readme
 
-commit 4bb0ee98895431c96e2617f2189403059f7133c3
+commit 4bb0ee98895431c96e2617f2189403059f7133c3 (tag: v1.0)
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Sat Nov 29 13:36:11 2025 -0400
 
