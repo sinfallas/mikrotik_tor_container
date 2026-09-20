@@ -1,4 +1,5 @@
 FROM alpine:latest
-LABEL maintainer="sinfallas@gmail.com"
-LABEL build_date="2025-12-29"
+LABEL org.opencontainers.image.authors="sinfallas@gmail.com"
 RUN apk update && apk add tor nano
+ARG BUILD_DATE
+LABEL org.opencontainers.image.created=$BUILD_DATE
